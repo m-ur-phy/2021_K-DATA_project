@@ -11,3 +11,6 @@
 2. 머신러닝/딥러닝
 3. 캐글 실습
 4. 프로젝트
+
+## 최종 팀 프로젝트
+https://github.com/returnsemicolon/semicolon_diary/tree/master/README.md
